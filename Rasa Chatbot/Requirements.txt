@@ -1,0 +1,8 @@
+
+rasa==1.10.14
+rasa-x==0.32.2
+geopy==2.0.0
+pandas
+numpy
+
+Note: In "rasa.core.channels.console" set "RASA_SHELL_READING_TIMEOUT_IN_SECONDS" = 60
